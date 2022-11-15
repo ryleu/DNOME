@@ -5,7 +5,6 @@
 <h4 align="center">Adwaita-inspired Discord Theme</h4>
 <p align="center">
   <br />
-    <a href="https://github.com/GeopJr/DNOME/blob/main/CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-v2.1-ff69b4.svg?style=for-the-badge&labelColor=f8eae3" alt="COC" /></a>
     <a href="https://github.com/GeopJr/DNOME/blob/main/LICENSE"><img src="https://img.shields.io/badge/LICENSE-BSD--2--Clause-000000.svg?style=for-the-badge&labelColor=f8eae3" alt="BSD-2-Clause" /></a>
 </p>
 
